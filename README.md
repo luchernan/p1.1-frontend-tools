@@ -8,9 +8,11 @@
 
 Ennumerate and explain each one of the files included in this repo.
 
-- File 1
-- File 2
-- Etc...
+- img (folder): Folder where all images are saved
+- index.html: Exercise 7 html file with the script
+- form.html: Exercise 13 html file with the form
+- README.md: This readme
+- app.js: The script used in index.html
 
 #### Instructions: 
 
