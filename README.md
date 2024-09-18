@@ -2,7 +2,7 @@
 
 ### 2DAW - DWEC Bilingual. 
 
-> **Student Name**:  
+> **Student Name**: **Lucas Hernandez**  :
 
 #### Files included in this repository:
 
@@ -35,6 +35,7 @@ Ennumerate and explain each one of the files included in this repo.
    - **Markdown All in One** **add shortcuts in markdwon**
 4. **Install the extensions listed in the previous point in VSCode**.
 5. **What other extensions do you know that you consider interesting for developing in JavaScript**?
+   **TypeScript and JavaScript Language Features**
    
 6. **Find in VSCode the option in `Settings` to `Format On Save` and activate it. What effect has this option?**
 **it will autoformat the document we are working on**
@@ -45,7 +46,7 @@ Ennumerate and explain each one of the files included in this repo.
 7. **Create an `index.html` file inside your workspace folder.**
 8. **Create the basic html structure using the `!` snippet and change the title to 'Hello World'**
 
-    ````html
+    ```html
     <!DOCTYPE html>
     <html lang="en">
     <head>
@@ -57,7 +58,7 @@ Ennumerate and explain each one of the files included in this repo.
       
     </body>
     </html>
-    ````
+    ```
 
 9. **Create a new file called `app.js` and add this two lines**
 
@@ -66,9 +67,13 @@ Ennumerate and explain each one of the files included in this repo.
     document.body.innerHTML = "<h1>Hello document!<h1>"
     ````
 
-10. **Import the script in your html using one of the techniques explained in class. Explain here the technique, show the code and justify why did you choose this technique**.  ````html 
-    <script src="app.js"></script>````
-    **I used srcrip tag because is the easiest**
+10. **Import the script in your html using one of the techniques explained in class. Explain here the technique, show the code and justify why did you choose this technique**.  
+    
+    ```html  
+    <script src="app.js"></script>
+    ```
+
+    **I used srcript tag because is the easiest**
 
 11. **Launch `index.html` in Live Server and check that the script is running. Click right button and select inspect to show the developer tools and take a look on the console.**
     
