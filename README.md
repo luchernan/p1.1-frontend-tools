@@ -2,7 +2,7 @@
 
 ### 2DAW - DWEC Bilingual. 
 
-> **Student Name**: **Lucas Hernandez**  :
+> **Student Name**: **Lucas Hernandez**  
 
 #### Files included in this repository:
 
@@ -35,7 +35,8 @@ Ennumerate and explain each one of the files included in this repo.
    - **Markdown All in One** **add shortcuts in markdwon**
 4. **Install the extensions listed in the previous point in VSCode**.
 5. **What other extensions do you know that you consider interesting for developing in JavaScript**?
-   **TypeScript and JavaScript Language Features**
+   <br>
+    **TypeScript and JavaScript Language Features**
    
 6. **Find in VSCode the option in `Settings` to `Format On Save` and activate it. What effect has this option?**
 **it will autoformat the document we are working on**
@@ -62,10 +63,10 @@ Ennumerate and explain each one of the files included in this repo.
 
 9. **Create a new file called `app.js` and add this two lines**
 
-    ````javascript
+    ```javascript
     console.log("Hello Console!")
     document.body.innerHTML = "<h1>Hello document!<h1>"
-    ````
+    ```
 
 10. **Import the script in your html using one of the techniques explained in class. Explain here the technique, show the code and justify why did you choose this technique**.  
     
@@ -94,7 +95,9 @@ Ennumerate and explain each one of the files included in this repo.
 
 ### Create a simple form with Bootstrap 4. 
 
-13. **At this point, we are going to create a page called `form.html` starting from the `Bs5-$` template provided by the Bootstrap extension we added. What files does this template import in the html by default?**
+13. **At this point, we are going to create a page called `form.html` starting from the `Bs5-$` template provided by the Bootstrap extension we added. What files does this template import in the html by default?** <br> **It imports the Bootstrap´ CSS**
+
+
     
 14. **Create a `<div>`with the class `.container` to wrap all the sections in the web page**
   
